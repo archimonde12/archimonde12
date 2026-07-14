@@ -1,48 +1,28 @@
-# Hi there, I'm Hoan (archimonde12) 👋
+# Hi there! I'm Hoan Luu 👋
 
-Associate Software Engineer & Tech Explorer passionate about building robust backend architectures, blockchain solutions, and AI-driven applications.
-
----
-
-### 🚀 About Me
-
-* 💻 **Current Focus:** Blockchain scanner architectures, decentralized price feeds, and automating workflows with LLMs.
-* 🛠️ **Core Expertise:** Core Backend (NodeJS/TS, NestJS), Smart Contracts & Web3 (Solidity, Hardhat), and Automation.
-* 📬 **Contact:** [hoanbkhn@gmail.com](mailto:hoanbkhn@gmail.com) | [Linkedin](https://linkedin.com/in/your-linkedin-username) *(please update your link)*
+I am a **Senior Backend Engineer and Web3 Leader** dedicated to building high-performance decentralized systems. With over 5 years of expertise in TypeScript and Node.js, I specialize in bridging the gap between robust blockchain infrastructure and the efficiency of AI-native development.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### ⚡ My Edge: AI-Augmented Engineering
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.dot-js&logoColor=white)
-![Solidity](https://img.shields.io/badge/solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+> I don't just write code; I architect systems. I leverage Cursor and LLMs to accelerate development cycles by 40%, allowing me to focus on high-level architecture, security, and scalability rather than boilerplate. Currently, I am pioneering the integration of AI Agents and Agentic Workflows to automate complex backend operations and enhance Web3 data processing.
 
 ---
 
-### 🗂️ Featured Hubs & Projects
+### 🛠️ Core Technical Stack
 
-* 🔬 **[@archi-ai-labs](https://github.com/archi-ai-labs)**: My dedicated organization for AI research, tools, and agentic workflows.
-  * [multichain-key-scanner](https://github.com/archi-ai-labs/multichain-key-scanner) — Multichain cryptographic key scanner.
-* 👤 **Personal Highlights:**
-  * [llmog](https://github.com/archimonde12/llmog) — Large Language Model orchestrator and playground.
-  * [youtube-transcript](https://github.com/archimonde12/youtube-transcript) — YouTube subtitle extraction & processing engine.
+*   **Backend:** Node.js, TypeScript, RESTful APIs, GraphQL, Distributed Systems
+*   **Web3:** Blockchain integration, DeFi (Coingecko API), Bot Ecosystems (Telegram/Discord)
+*   **DevOps & Data:** Docker, MongoDB, System Monitoring
+*   **AI Tooling:** Prompt Engineering (Google Certified), Cursor AI, LLM API Integration
 
----
-
-### 📊 GitHub Statistics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=archimonde12&show_icons=true&theme=nord&count_private=true" alt="Hoan's GitHub stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=archimonde12&layout=compact&theme=nord&hide=html,css,makefile" alt="Top Langs" height="180px"/>
-</p>
+*I thrive in remote-first, high-growth environments where speed meets system reliability.*
 
 ---
 
-<p align="center">
-  <i>"Code is poetry written in compilers."</i>
-</p>
+### 📬 Connect with me
+
+*   **LinkedIn:** [hoan-luu-48b662254](https://www.linkedin.com/in/hoan-luu-48b662254/)
+*   **Email:** [hoanbkhn@gmail.com](mailto:hoanbkhn@gmail.com)
+*   **GitHub Organization:** [@archi-ai-labs](https://github.com/archi-ai-labs)
